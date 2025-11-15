@@ -18,4 +18,4 @@ _After Image:_
 
 Screenshot or Report of User Feedback: 
 
-![image alt]()
+![image alt](https://github.com/MukashifaFatima/UI-UX-Task6/blob/main/Screenshot%202025-11-15%20210430.png?raw=true)
